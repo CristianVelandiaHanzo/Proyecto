@@ -10,7 +10,7 @@ def avarage_tempts(temps):
 
 if __name__=='__main__':
 
-    temps = [21, 22, 22 , 23, 24, 24]
+    temps = [21, 22, 22 , 23, 24, 24, 45]
 
     AV=avarage_tempts(temps)
 
